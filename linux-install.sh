@@ -2,7 +2,7 @@
 # Author: JackLeiMinerProxy
 # github: https://github.com/JackLeiMinerProxy
 
-VERSION="2.8.7"
+VERSION="2.8.0"
 
 DOWNLOAD_HOST="https://github.com/JackLeiMinerProxy/KTMinerProxy/raw/master/Linux-64"
 
@@ -163,7 +163,7 @@ start() {
 update() {
     turn_off
 
-    installapp 2.8.7
+    installapp 2.8.0
 }
 
 turn_on() {
@@ -443,7 +443,7 @@ read -p "$(echo -e "请选择[1-18]：")" choose
 
 case $choose in
 1)
-    installapp 2.8.7
+    installapp 2.8.0
     ;;
 2)
     update
