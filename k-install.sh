@@ -1,14 +1,14 @@
 #!/bin/bash
-# Author: KT007007
-# github: https://github.com/kt007007
+# Author: JackLeiMinerProxy
+# github: https://github.com/JackLeiMinerProxy
 
 DOWNLOAD_HOST=""
 
-AMD64_HOST="https://cdn.jsdelivr.net/gh/kt007007/KTMinerProxy@main/KENC/kenc_linux_amd64"
+AMD64_HOST="https://cdn.jsdelivr.net/gh/JackLeiMinerProxy/KTMinerProxy@master/KENC/kenc_linux_amd64"
 
-ARM64_HOST="https://cdn.jsdelivr.net/gh/kt007007/KTMinerProxy@main/KENC/kenc_linux_arm64"
+ARM64_HOST="https://cdn.jsdelivr.net/gh/JackLeiMinerProxy/KTMinerProxy@master/KENC/kenc_linux_arm64"
 
-ARM386_HOST="https://cdn.jsdelivr.net/gh/kt007007/KTMinerProxy@main/KENC/kenc_arm386"
+ARM386_HOST="https://cdn.jsdelivr.net/gh/JackLeiMinerProxy/KTMinerProxy@master/KENC/kenc_arm386"
 
 PATH_KENC="/root/kenc"
 
