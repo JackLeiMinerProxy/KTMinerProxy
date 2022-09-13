@@ -4,9 +4,9 @@
 
 VERSION="2.8.7"
 
-DOWNLOAD_HOST="https://github.com/JackLeiMinerProxy/KTMinerProxy/raw/main/Linux-64"
+DOWNLOAD_HOST="https://github.com/JackLeiMinerProxy/KTMinerProxy/raw/master/Linux-64"
 
-DOWNLOAD_STANDBY="https://cdn.jsdelivr.net/gh/JackLeiMinerProxy/KTMinerProxy@main/Linux-64"
+DOWNLOAD_STANDBY="https://cdn.jsdelivr.net/gh/JackLeiMinerProxy/KTMinerProxy@master/Linux-64"
 
 PATH_KT="/root/ktmproxy"
 
