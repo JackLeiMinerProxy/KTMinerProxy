@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JackLeiMinerProxy/KTMinerProxy/main/image/logo-1.png" alt="Logo" width="200" height="200">
+<img src="https://raw.githubusercontent.com/JackLeiMinerProxy/KTMinerProxy/master/image/logo-1.png" alt="Logo" width="200" height="200">
 
 <br>
 
@@ -35,7 +35,7 @@
 <p>root用户直接执行以下命令, 根据提示选择对应功能即可。</p>
 
 ```
-bash <(curl -s -L https://raw.githubusercontent.com/JackLeiMinerProxy/KTMinerProxy/main/linux-install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/JackLeiMinerProxy/KTMinerProxy/master/linux-install.sh)
 ```
 
 <h2>免责声明</h2>
@@ -564,7 +564,7 @@ TOKEN超时切换到登录页自动保留了账号密码
 ```
 root用户直接执行以下命令, 根据提示选择对应功能即可。
 
-bash <(curl -s -L https://raw.githubusercontent.com/JackLeiMinerProxy/KTMinerProxy/main/linux-install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/JackLeiMinerProxy/KTMinerProxy/master/linux-install.sh)
 ```
 ### 安装完成之后, 请立即修改登录账号、密码以及启动端口，防止被爆破。
 
@@ -580,12 +580,12 @@ bash <(curl -s -L https://raw.githubusercontent.com/JackLeiMinerProxy/KTMinerPro
 # Windows
 下载完后直接启动即可，程序自带进程守护
 
-<a href="https://github.com/JackLeiMinerProxy/KTMinerProxy/tree/main/Windows-64">下载地址</a>
+<a href="https://github.com/JackLeiMinerProxy/KTMinerProxy/tree/master/Windows-64">下载地址</a>
 
 <span id="_kenc"></span>
 # KENC
 <p>
-请前往<a href="https://github.com/JackLeiMinerProxy/KTMinerProxy/tree/main/KENC">https://github.com/JackLeiMinerProxy/KTMinerProxy/tree/main/KENC</a>自行下载
+请前往<a href="https://github.com/JackLeiMinerProxy/KTMinerProxy/tree/master/KENC">https://github.com/JackLeiMinerProxy/KTMinerProxy/tree/master/KENC</a>自行下载
 </p>
 <p><a href="#kenc">KENC帮助文档</a></p>
 
