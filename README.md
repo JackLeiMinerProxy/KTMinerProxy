@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/image/logo-1.png" alt="Logo" width="200" height="200">
+<img src="https://raw.githubusercontent.com/JackLeiMinerProxy/KTMinerProxy/main/image/logo-1.png" alt="Logo" width="200" height="200">
 
 <br>
 
@@ -12,7 +12,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-<a href="https://github.com/kt007007/KTMinerProxy">English</a>｜<a href="https://github.com/kt007007/KTMinerProxy/tree/main/Readme/hk">繁体中文</a>
+<a href="https://github.com/JackLeiMinerProxy/KTMinerProxy">English</a>｜<a href="https://github.com/JackLeiMinerProxy/KTMinerProxy/tree/main/Readme/hk">繁体中文</a>
 
 <p>
 Professional mine operation and maintenance tools, improve mine profits, detect abnormalities in mines and nodes, and become the best assistant of mines. (this software is only for use in legally licensed areas. If you use this software, it means that you accept this license by default. If you use it in a restricted area, you should bear the legal problems caused by it.)
@@ -35,7 +35,7 @@ Professional mine operation and maintenance tools, improve mine profits, detect 
 <p>The root user directly executes the following commands, and selects the corresponding function according to the prompts.</p>
 
 ```
-bash <(curl -s -L https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/linux-install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/JackLeiMinerProxy/KTMinerProxy/main/linux-install.sh)
 ```
 
 <h2>Disclaimer</h2>
@@ -564,7 +564,7 @@ Fixed the problem that the target mining pool cannot be connected to SSL
 ```
 The root user directly executes the following commands, and selects the corresponding function according to the prompts.
 
-bash <(curl -s -L https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/linux-install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/JackLeiMinerProxy/KTMinerProxy/main/linux-install.sh)
 ```
 ### After the installation is complete, please modify the login account, password and startup port immediately to prevent explosion.
 
@@ -580,12 +580,12 @@ Supported Linux
 # Windows
 After downloading, you can start it directly, the program comes with a process daemon
 
-<a href="https://github.com/kt007007/KTMinerProxy/tree/main/Windows-64">download link</a>
+<a href="https://github.com/JackLeiMinerProxy/KTMinerProxy/tree/main/Windows-64">download link</a>
 
 <span id="_kenc"></span>
 # KENC
 <p>
-go to<a href="https://github.com/kt007007/KTMinerProxy/tree/main/KENC">https://github.com/kt007007/KTMinerProxy/tree/main/KENC</a>Download it yourself
+go to<a href="https://github.com/JackLeiMinerProxy/KTMinerProxy/tree/main/KENC">https://github.com/JackLeiMinerProxy/KTMinerProxy/tree/main/KENC</a>Download it yourself
 </p>
 <p><a href="#kenc">KENC Help Documentation</a></p>
 
@@ -724,12 +724,12 @@ The legal problems caused by the use of this software have nothing to do with th
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/kt007007/KTMinerProxy.svg?style=flat
-[contributors-url]: https://github.com/kt007007/KTMinerProxy/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kt007007/KTMinerProxy.svg?style=flat
-[forks-url]: https://github.com/kt007007/KTMinerProxy/network/members
-[stars-shield]: https://img.shields.io/github/stars/kt007007/KTMinerProxy.svg?style=flat
-[stars-url]: https://github.com/kt007007/KTMinerProxy/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kt007007/KTMinerProxy.svg?style=flat
-[issues-url]: https://github.com/kt007007/KTMinerProxy/issues
-[license-shield]: https://img.shields.io/github/license/kt007007/KTMinerProxy.svg?style=flat
+[contributors-shield]: https://img.shields.io/github/contributors/JackLeiMinerProxy/KTMinerProxy.svg?style=flat
+[contributors-url]: https://github.com/JackLeiMinerProxy/KTMinerProxy/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/JackLeiMinerProxy/KTMinerProxy.svg?style=flat
+[forks-url]: https://github.com/JackLeiMinerProxy/KTMinerProxy/network/members
+[stars-shield]: https://img.shields.io/github/stars/JackLeiMinerProxy/KTMinerProxy.svg?style=flat
+[stars-url]: https://github.com/JackLeiMinerProxy/KTMinerProxy/stargazers
+[issues-shield]: https://img.shields.io/github/issues/JackLeiMinerProxy/KTMinerProxy.svg?style=flat
+[issues-url]: https://github.com/JackLeiMinerProxy/KTMinerProxy/issues
+[license-shield]: https://img.shields.io/github/license/JackLeiMinerProxy/KTMinerProxy.svg?style=flat
