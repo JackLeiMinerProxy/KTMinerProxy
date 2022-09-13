@@ -18,7 +18,7 @@
 Professional mine operation and maintenance tools, improve mine profits, detect abnormalities in mines and nodes, and become the best assistant of mines. (this software is only for use in legally licensed areas. If you use this software, it means that you accept this license by default. If you use it in a restricted area, you should bear the legal problems caused by it.)
 </p>
 <h3>
-    Telegram：<a href="https://t.me/+VK7ZOlKvcLljYjQ1">https://t.me/+VK7ZOlKvcLljYjQ1</a>
+    Telegram：<a href="https://t.me/ktminer">https://t.me/ktminer</a>
 </h3>
 
 </div>
