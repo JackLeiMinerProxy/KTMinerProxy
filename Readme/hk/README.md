@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/image/logo-1.png" alt="Logo" width="200" height="200">
+<img src="https://raw.githubusercontent.com/JackLeiMinerProxy/KTMinerProxy/main/image/logo-1.png" alt="Logo" width="200" height="200">
 
 <br>
 
@@ -35,7 +35,7 @@
 <p>root用户直接执行以下命令, 根据提示选择对应功能即可。</p>
 
 ```
-bash <(curl -s -L https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/linux-install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/JackLeiMinerProxy/KTMinerProxy/main/linux-install.sh)
 ```
 
 <h2>免责声明</h2>
@@ -564,7 +564,7 @@ TOKEN超时切换到登录页自动保留了账号密码
 ```
 root用户直接执行以下命令, 根据提示选择对应功能即可。
 
-bash <(curl -s -L https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/linux-install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/JackLeiMinerProxy/KTMinerProxy/main/linux-install.sh)
 ```
 ### 安装完成之后, 请立即修改登录账号、密码以及启动端口，防止被爆破。
 
@@ -580,12 +580,12 @@ bash <(curl -s -L https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/l
 # Windows
 下载完后直接启动即可，程序自带进程守护
 
-<a href="https://github.com/kt007007/KTMinerProxy/tree/main/Windows-64">下载地址</a>
+<a href="https://github.com/JackLeiMinerProxy/KTMinerProxy/tree/main/Windows-64">下载地址</a>
 
 <span id="_kenc"></span>
 # KENC
 <p>
-请前往<a href="https://github.com/kt007007/KTMinerProxy/tree/main/KENC">https://github.com/kt007007/KTMinerProxy/tree/main/KENC</a>自行下载
+请前往<a href="https://github.com/JackLeiMinerProxy/KTMinerProxy/tree/main/KENC">https://github.com/JackLeiMinerProxy/KTMinerProxy/tree/main/KENC</a>自行下载
 </p>
 <p><a href="#kenc">KENC帮助文档</a></p>
 
@@ -718,18 +718,18 @@ bash <(curl -s -L https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/l
 
 # 联系我们
 
-<p>Telegram: <a href="https://t.me/+VK7ZOlKvcLljYjQ1">https://t.me/+VK7ZOlKvcLljYjQ1</a></p>
-<p>Discord: <a href="https://discord.gg/NCsx4y8AR9">https://discord.gg/NCsx4y8AR9</a></p>
+<p>Telegram: <a href="https://t.me/ktminer">https://t.me/ktminer</a></p>
+<p>Discord: <a href="https://t.me/ktminer">https://t.me/ktminer</a></p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/kt007007/KTMinerProxy.svg?style=flat
-[contributors-url]: https://github.com/kt007007/KTMinerProxy/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kt007007/KTMinerProxy.svg?style=flat
-[forks-url]: https://github.com/kt007007/KTMinerProxy/network/members
-[stars-shield]: https://img.shields.io/github/stars/kt007007/KTMinerProxy.svg?style=flat
-[stars-url]: https://github.com/kt007007/KTMinerProxy/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kt007007/KTMinerProxy.svg?style=flat
-[issues-url]: https://github.com/kt007007/KTMinerProxy/issues
-[license-shield]: https://img.shields.io/github/license/kt007007/KTMinerProxy.svg?style=flat
+[contributors-shield]: https://img.shields.io/github/contributors/JackLeiMinerProxy/KTMinerProxy.svg?style=flat
+[contributors-url]: https://github.com/JackLeiMinerProxy/KTMinerProxy/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/JackLeiMinerProxy/KTMinerProxy.svg?style=flat
+[forks-url]: https://github.com/JackLeiMinerProxy/KTMinerProxy/network/members
+[stars-shield]: https://img.shields.io/github/stars/JackLeiMinerProxy/KTMinerProxy.svg?style=flat
+[stars-url]: https://github.com/JackLeiMinerProxy/KTMinerProxy/stargazers
+[issues-shield]: https://img.shields.io/github/issues/JackLeiMinerProxy/KTMinerProxy.svg?style=flat
+[issues-url]: https://github.com/JackLeiMinerProxy/KTMinerProxy/issues
+[license-shield]: https://img.shields.io/github/license/JackLeiMinerProxy/KTMinerProxy.svg?style=flat
