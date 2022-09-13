@@ -1,12 +1,12 @@
 #!/bin/bash
-# Author: KT007007
-# github: https://github.com/kt007007
+# Author: JackLeiMinerProxy
+# github: https://github.com/JackLeiMinerProxy
 
 VERSION="2.8.7"
 
-DOWNLOAD_HOST="https://github.com/kt007007/KTMinerProxy/raw/main/Linux-64"
+DOWNLOAD_HOST="https://github.com/JackLeiMinerProxy/KTMinerProxy/raw/main/Linux-64"
 
-DOWNLOAD_STANDBY="https://cdn.jsdelivr.net/gh/kt007007/KTMinerProxy@main/Linux-64"
+DOWNLOAD_STANDBY="https://cdn.jsdelivr.net/gh/JackLeiMinerProxy/KTMinerProxy@main/Linux-64"
 
 PATH_KT="/root/ktmproxy"
 
@@ -26,63 +26,7 @@ PATH_TURN_ON="/etc/profile.d"
 PATH_TURN_ON_SH="/etc/profile.d/ktm.sh"
 
 ISSUE() {
-    echo "1.0.0"
-    echo "1.1.0"
-    echo "1.1.1"
-    echo "1.1.2"
-    echo "1.1.3"
-    echo "1.1.4"
-    echo "1.1.5"
-    echo "2.0.0"
-    echo "2.0.1"
-    echo "2.1.0"
-    echo "2.1.1"
-    echo "2.2.0"
-    echo "2.2.1"
-    echo "2.2.2"
-    echo "2.2.3"
-    echo "2.2.4"
-    echo "2.2.5"
-    echo "2.2.6"
-    echo "2.2.7"
-    echo "2.3.0"
-    echo "2.3.1"
-    echo "2.3.2"
-    echo "2.3.3"
-    echo "2.4.0"
-    echo "2.4.1"
-    echo "2.4.2"
-    echo "2.4.3"
-    echo "2.5.0"
-    echo "2.5.1"
-    echo "2.5.2"
-    echo "2.5.3"
-    echo "2.5.4"
-    echo "2.5.5"
-    echo "2.5.6"
-    echo "2.5.7"
-    echo "2.5.8"
-    echo "2.5.9"
-    echo "2.6.0"
-    echo "2.6.1"
-    echo "2.6.2"
-    echo "2.6.3"
-    echo "2.6.4"
-    echo "2.6.5"
-    echo "2.6.6"
-    echo "2.6.7"
-    echo "2.6.8"
-    echo "2.6.9"
-    echo "2.7.0"
-    echo "2.7.1"
-    echo "2.7.2"
-    echo "2.7.3"
-    echo "2.7.4"
-    echo "2.7.5"
-    echo "2.7.6"
-    echo "2.7.7"
-    echo "2.7.8"
-    echo "2.7.9"
+    echo "2.8.0"
 }
 
 colorEcho(){
